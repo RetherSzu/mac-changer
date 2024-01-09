@@ -56,6 +56,3 @@ python script.py --interface <interface_name> [--mac <mac_address>] [--reset]
 - `<interface_name>`: Name of the network interface.
 - `<mac_address>` (optional): Custom MAC address to set. If not provided, a random MAC address will be generated.
 - `--reset` (optional): Resets the MAC address of the specified interface to its default value.
-
-> Note: Changing MAC addresses without proper authorization may have legal implications. Use this script responsibly
-> and ensure you have appropriate permissions.
